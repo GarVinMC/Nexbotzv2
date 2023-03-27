@@ -67,7 +67,7 @@ Terimakasih Juga Untuk Kang Banned:
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://youtu.be/hklv-Ysqqac',
+'mediaUrl':'https://youtu.be/C2lqq_dPaQc',
 'mediaType':2,
 'previewType':'pdf',
 'title':`A MIMIR🎧: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
